@@ -49,7 +49,6 @@ class FinalViewController: UIViewController {
         
         setupLabels()
         setupChracterImageView()
-//        setupNavigationBar()
         
         finalImageView.contentMode = .scaleAspectFill
         finalImageView.layer.masksToBounds = true
